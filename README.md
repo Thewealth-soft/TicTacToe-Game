@@ -3,20 +3,13 @@ This is a simple command-line implementation of the classic Tic-Tac-Toe game wri
 
 ## How to Play
 1. Clone or download the repository to your local machine.
-
 2. Open a terminal or command prompt and navigate to the project directory.
-
 3. Make sure you have Node.js installed on your machine.
-
 4. Run the game using the following command:
    ```node ticTacToe.js```
-
 5. The game will display an empty Tic-Tac-Toe board with cells represented by numbers from 0 to 2 for rows and columns.
-
 6. Players take turns entering the row and column of their desired move when prompted.
-
 7. The game will notify if the move is valid or ask you to try again.
-
 8. The game continues until one player wins or the game ends in a tie.
 
 ## Rules
