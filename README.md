@@ -18,8 +18,8 @@ This is a simple command-line implementation of the classic Tic-Tac-Toe game wri
 3. The first player to get three of their symbols in a row (horizontally, vertically, or diagonally) wins the game.
 4. If all cells are filled and no player has won, the game ends in a tie.
 
-. `Enter row (0, 1, or 2):`: Enter the row number (0, 1, or 2) for your move.
-. `Enter column (0, 1, or 2):`: Enter the column number (0, 1, or 2) for your move.
+ `Enter row (0, 1, or 2):`: Enter the row number (0, 1, or 2) for your move.
+ `Enter column (0, 1, or 2):`: Enter the column number (0, 1, or 2) for your move.
 
 ## Example Gameplay
 
