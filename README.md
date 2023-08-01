@@ -10,7 +10,7 @@ This is a simple command-line implementation of the classic Tic-Tac-Toe game wri
 |5. The game will display an empty Tic-Tac-Toe board with cells represented by numbers from 0 to 2 for rows and columns.|        
 |6. Players take turns entering the row and column of their desired move when prompted.|
 |7. The game will notify if the move is valid or ask you to try again.|
-|8. The game continues until one player wins or the game ends in a tie.|
+|8. The game continues until one player wins or the game ends in a tie.|  
 
 
  `Enter row (0, 1, or 2):`: Enter the row number (0, 1, or 2) for your move.  
