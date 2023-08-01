@@ -12,7 +12,7 @@ This is a simple command-line implementation of the classic Tic-Tac-Toe game wri
 |7. The game will notify if the move is valid or ask you to try again.|
 |8. The game continues until one player wins or the game ends in a tie.|  
 
-
+## Commands
  `Enter row (0, 1, or 2):`: Enter the row number (0, 1, or 2) for your move.  
  `Enter column (0, 1, or 2):`: Enter the column number (0, 1, or 2) for your move.
 
